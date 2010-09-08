@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Task">
+  <DataContextMoniker Name="/edc" />
+  <nestedChildShapes>
+    <classShape Id="d8c7ac18-c6c7-492d-89c0-730898679a1b" absoluteBounds="0.75, 1.375, 2, 1.0961531575520835">
+      <DataClassMoniker Name="/edc/Priority" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a8a97459-d53e-415d-8f6b-7c6b6cb54014" absoluteBounds="0.765, 1.835, 1.9700000000000002, 0.53615315755208326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="190312c0-f999-4d9a-9b25-0e128af82fe8" absoluteBounds="3.5, 0.875, 2, 1.9178898111979166">
+      <DataClassMoniker Name="/edc/Task" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e070f8a8-aa46-45c1-8770-3e333d34a081" absoluteBounds="3.515, 1.335, 1.9700000000000002, 1.3578898111979165" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 1.92307657877604); (3.5 : 1.92307657877604)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/edc/Priority/Priority_Task" />
+      <nodes>
+        <classShapeMoniker Id="d8c7ac18-c6c7-492d-89c0-730898679a1b" />
+        <classShapeMoniker Id="190312c0-f999-4d9a-9b25-0e128af82fe8" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

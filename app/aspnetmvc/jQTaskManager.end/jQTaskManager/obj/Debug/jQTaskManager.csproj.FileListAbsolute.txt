@@ -1,0 +1,5 @@
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\jQTaskManager\jQTaskManager\bin\jQTaskManager.dll
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\jQTaskManager\jQTaskManager\bin\jQTaskManager.pdb
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\jQTaskManager\jQTaskManager\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\jQTaskManager\jQTaskManager\obj\Debug\jQTaskManager.dll
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\jQTaskManager\jQTaskManager\obj\Debug\jQTaskManager.pdb
